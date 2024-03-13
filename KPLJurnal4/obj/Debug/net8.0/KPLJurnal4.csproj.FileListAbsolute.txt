@@ -1,0 +1,14 @@
+D:\96\KPLJurnal4\KPLJurnal4\bin\Debug\net8.0\KPLJurnal4.exe
+D:\96\KPLJurnal4\KPLJurnal4\bin\Debug\net8.0\KPLJurnal4.deps.json
+D:\96\KPLJurnal4\KPLJurnal4\bin\Debug\net8.0\KPLJurnal4.runtimeconfig.json
+D:\96\KPLJurnal4\KPLJurnal4\bin\Debug\net8.0\KPLJurnal4.dll
+D:\96\KPLJurnal4\KPLJurnal4\bin\Debug\net8.0\KPLJurnal4.pdb
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\KPLJurnal4.GeneratedMSBuildEditorConfig.editorconfig
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\KPLJurnal4.AssemblyInfoInputs.cache
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\KPLJurnal4.AssemblyInfo.cs
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\KPLJurnal4.csproj.CoreCompileInputs.cache
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\KPLJurnal4.dll
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\refint\KPLJurnal4.dll
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\KPLJurnal4.pdb
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\KPLJurnal4.genruntimeconfig.cache
+D:\96\KPLJurnal4\KPLJurnal4\obj\Debug\net8.0\ref\KPLJurnal4.dll
